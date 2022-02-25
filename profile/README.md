@@ -1,8 +1,8 @@
-<h1 align="center">Kerig</h1>
+<h1 align="center">Kerig<sup><sup><sub>&#174;</sub></sup></sup></h1>
 
 <h3 align="center">Keep it readable. Keep it maintainable. Keep it scalable.</h3>
 
-Here at Kerig, we believe open-source technology creates **trust** and **transparency** between developers and end-users, whoever it may be. But we don't acknowledge open-source as the *only* condition for realising these relation characteristics. The source code has to be what we call *high quality*. That is, readable, maintainable and scalable.
+Here at Kerig, we believe open-source technology creates <b>trust</b> and <b>transparency</b> between developers and end-users, whoever it may be. But we don't acknowledge open-source as the *only* condition for realising these relation characteristics. The source code has to be what we call <i>high quality</i>. That is, readable, maintainable and scalable.
 
 <details>
 	<summary>Readability</summary>
@@ -36,7 +36,7 @@ Here at Kerig, we believe open-source technology creates **trust** and **transpa
 
 ## Our DevSecOps
 
-DevSecOps makes your workflow **high-performing**, results in **better** products and ultimately **greater** customer satisfaction. We try our best to incorporate this culture and practices where possible. No wonder we develop at the pace we do.
+DevSecOps makes your workflow <b>high-performing</b>, results in <b>better</b> products and ultimately <b>greater</b> customer satisfaction, all with security in mind. We try our best to incorporate this culture and practices where possible. No wonder we develop at the pace we do.
 
 ```mermaid
 flowchart TD
