@@ -2,7 +2,7 @@
 
 <h3 align="center">Keep it readable. Keep it maintainable. Keep it scalable.</h3>
 
-Here at Kerig, we believe open-source technology creates <b>trust</b> and <b>transparency</b> between developers and end-users, whoever it may be. But we don't acknowledge open-source as the *only* condition for realising these relation characteristics. The source code has to be what we call <i>high quality</i>. That is, readable, maintainable and scalable.
+Here at Kerig, we believe open-source technology creates <b>trust</b> and <b>transparency</b> between developers and end-users, whoever they may be. But we don't acknowledge open-source as the *only* condition for realising these relation characteristics. The source code has to be what we call <i>high quality</i>. That is, readable, maintainable and scalable.
 
 <details>
 	<summary>Readability</summary>
@@ -43,17 +43,20 @@ flowchart TD
 	subgraph Security
 		A([Planning])
 		E([Configuration])
+
 		subgraph Development
 		B([Coding])
 		C([Building])
 		D([Testing])
 		end
+
 		subgraph Operations
 		F([Deployment])
 		G([Monitoring])
 		H([Analysis])
 		end
 	end
+
 	A --> |"Collaboration"| B
 	B --> C --> D
 	D --> E --> |"Security & compliance"| F
@@ -63,4 +66,4 @@ flowchart TD
 
 ---
 
-<h3 align="center"><a href="https://kerig.ee" target="_blank">www.kerig.ee</a> &#8226; <a href="mailto:kerigit@outlook.com" target="_blank">kerigit@outlook.com</a> &#8226; <a href="https://twitter.com/kerig_it" target="_blank">@kerig_it</a></h3>
+<h3 align="center"><a href="https://www.kerig.ee" target="_blank">www.kerig.ee</a> &#8226; <a href="mailto:kerigit@outlook.com" target="_blank">kerigit@outlook.com</a> &#8226; <a href="https://twitter.com/kerig_it" target="_blank">Twitter</a></h3>
