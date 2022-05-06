@@ -66,4 +66,4 @@ flowchart TD
 
 ---
 
-<h3 align="center"><a href="https://www.kerig.ee" target="_blank">www.kerig.ee</a> &#8226; <a href="mailto:kerigit@outlook.com" target="_blank">kerigit@outlook.com</a> &#8226; <a href="https://twitter.com/kerig_it" target="_blank">Twitter</a></h3>
+<h3 align="center"><a href="https://www.kerig.ee" target="_blank">www.kerig.ee</a> &#8226; <a href="mailto:info@kergi.ee" target="_blank">info@kerig.ee</a> &#8226; <a href="https://twitter.com/kerig_it" target="_blank">Twitter</a></h3>
