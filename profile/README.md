@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2 align="center">Our Solutions for Web Developers</h2>
 <img alt="Illustration" src="https://user-images.githubusercontent.com/85436086/178143520-ba15d280-5bfd-4256-b9d7-184dfed9f90d.png" />
 <p>In addition to delivering our services to companies and non-technicians, we have created numerous tools and utilities for other developers to use in their projects, thereby contributing to open-source software. We value the importance of open-source software and its community and are happy to be able to support it.</p>
