@@ -1,5 +1,5 @@
 <h2 align="center">Our Solutions for Web Developers</h2>
-<img alt="Illustration" src="https://user-images.githubusercontent.com/85436086/178143520-ba15d280-5bfd-4256-b9d7-184dfed9f90d.png" />
+<img alt="Illustration" src="https://user-images.githubusercontent.com/85436086/178228932-914bedad-b2f0-4d0a-a7d6-1318845f7026.png" />
 <p>In addition to delivering our services to companies and non-technicians, we have created numerous tools and utilities for other developers to use in their projects, thereby contributing to open-source software. We value the importance of open-source software and its community and are happy to be able to support it.</p>
 <p>Transparency is equally important to us. That is why we have open-sourced some of our projects so the developer community can better understand how our services work, and this way, we can contribute to the open-source community.</p>
 <p>When it comes to writing code, our core values revolve around three main qualities: readability, maintainability and scalability. We can guarantee the success of any of our projects by making these elements our top priorities and combining them with our DevSecOps. Or, at least, the developers are not to blame in case of failure.</p>
