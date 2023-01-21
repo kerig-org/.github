@@ -1,4 +1,4 @@
-<h4 align="center"><img src="https://user-images.githubusercontent.com/85436086/213792887-ad11d50a-0174-4fdb-8318-f3d794f1cef3.png" alt="Kerig" height="48px" /><br />Bespoke products, exclusive service</h4>
+<h6 align="center"><img src="https://user-images.githubusercontent.com/85436086/213792887-ad11d50a-0174-4fdb-8318-f3d794f1cef3.png" alt="Kerig" height="48px" /><br />Bespoke products, exclusive service</h6>
 
 <br /><br />
 
@@ -6,11 +6,11 @@
 
 <br />
 
-<h6 align="center"><a href="mailto:info@kerig.ee">info@kerig.ee</a> • <a href="https://www.kerig.ee">www.kerig.ee</a></h6>
+<div align="center"><strong><a href="mailto:info@kerig.ee">info@kerig.ee</a> • <a href="https://www.kerig.ee">www.kerig.ee</a></strong></div>
 
 <br />
 
-At our organisation, we pride ourselves on our ability to create unique and innovative products that meet our clients' needs. Whether it's a fully bespoke website or a bespoke application, our team of experienced developers is committed to delivering high quality solutions.
+At our organisation, we pride ourselves on our ability to create unique and innovative products that meet our clients’ needs. Whether it’s a fully bespoke website or a bespoke application, our team of experienced developers is committed to delivering high quality solutions.
 
 We pay special attention to code quality and transparency. We believe that by writing the best possible code, we can guarantee that our products will not only be functional, but also maintainable and efficient. This is why we make code quality a priority in all of our projects and are always open to feedback from our customers and the developer community at large.
 
