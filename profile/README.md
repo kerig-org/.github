@@ -1,6 +1,17 @@
-<h2 align="center">Our Solutions for Web Developers</h2>
-<img alt="Illustration" src="https://user-images.githubusercontent.com/85436086/178228932-914bedad-b2f0-4d0a-a7d6-1318845f7026.png" />
-<p>In addition to delivering our services to companies and non-technicians, we have created numerous tools and utilities for other developers to use in their projects, thereby contributing to open-source software. We value the importance of open-source software and its community and are happy to be able to support it.</p>
-<p>Transparency is equally important to us. That is why we have open-sourced some of our projects so the developer community can better understand how our services work, and this way, we can contribute to the open-source community.</p>
-<p>When it comes to writing code, our core values revolve around three main qualities: readability, maintainability and scalability. We can guarantee the success of any of our projects by making these elements our top priorities and combining them with our DevSecOps. Or, at least, the developers are not to blame in case of failure.</p>
-<p>Are you interested in our work? <a href="mailto:info@kerig.ee">Contact us via e-mail</a> or <a href="https://www.kerig.ee">visit our website</a>.</p>
+<h4 align="center"><img src="https://user-images.githubusercontent.com/85436086/213792887-ad11d50a-0174-4fdb-8318-f3d794f1cef3.png" alt="Kerig" height="48px" /><br />Bespoke products, exclusive service</h4>
+
+<br /><br />
+
+<img src="https://user-images.githubusercontent.com/85436086/178228932-914bedad-b2f0-4d0a-a7d6-1318845f7026.png" alt="Illustration" />
+
+<br />
+
+<h6 align="center"><a href="mailto:info@kerig.ee">info@kerig.ee</a> • <a href="https://www.kerig.ee">www.kerig.ee</a></h6>
+
+<br />
+
+At our organisation, we pride ourselves on our ability to create unique and innovative products that meet our clients' needs. Whether it's a fully bespoke website or a bespoke application, our team of experienced developers is committed to delivering high quality solutions.
+
+We pay special attention to code quality and transparency. We believe that by writing the best possible code, we can guarantee that our products will not only be functional, but also maintainable and efficient. This is why we make code quality a priority in all of our projects and are always open to feedback from our customers and the developer community at large.
+
+As part of our commitment to the open-source community, we also create small packages which are widely useful for developers. These packages are designed to support developers in their work, and we make sure they are well documented, open, and easy to use. If you have any questions or queries about our products or services, please contact us by email or via our website at www.kerig.ee/enquire. We look forward to working with you.
