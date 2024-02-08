@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-	We‘re a creative design studio, specialising in web design and mobile app<br />development, with
+	We’re a creative design studio, specialising in web design and mobile app<br />development, with
 	a focus on digital enterprise services.
 </p>
 
