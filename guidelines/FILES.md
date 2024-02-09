@@ -11,18 +11,3 @@ When you write code in JavaScript for a project, make sure you follow the below 
 ### 1. Introduction
 
 Give your code a concise yet descriptive introductory comment at the beginning of the file. Such a comment should usually include what you're looking at, where to find more information and URLs to places where you can see either the source code or more information.
-
-Below is a sample of such a comment with little extras:
-
-```js
-/*
- * This is the entry point of My Project
- *
- * Refer to the README in this repository's root for more
- * information.
- *
- * GitHub: https://github.com/me/my-project
- *
- * Made with ❤️ by me.
-*/
-```
