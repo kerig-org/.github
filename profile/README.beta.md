@@ -45,7 +45,7 @@
 </p>
 
 <p>
-	<sub><strong>8ᴀᴍ – 8ᴘᴍ ᴄᴇᴛ sᴀʟᴇs ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴀᴠᴀɪʟᴀʙɪʟɪᴛʏ</strong></sub>
+	<sub><strong>ᴀᴠᴀɪʟᴀʙʟᴇ ᴅᴜʀɪɴɢ ᴇᴇᴛ ʙᴜsɪɴᴇss ʜᴏᴜʀs</strong></sub>
 	<br />
 	<span>🇳🇱 +31 6 12 36 21 05</span>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,7 +57,7 @@
 <p>
 	<sub><strong>ᴏᴜʀ ᴘᴏsᴛᴀʟ ᴀᴅᴅʀᴇss</strong></sub>
 	<br />
-	<span>PO Box A0970<br />Oder 20<br />2491 DC The Hague<br />The Netherlands</span>
+	<span>Kerig OU<br />Oder 20<br />PO Box A970<br />2491 DC The Hague<br />The Netherlands</span>
 </p>
 
 <br />
