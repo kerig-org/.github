@@ -24,7 +24,7 @@
 	</h3>
 	<p>
 		<sup>
-			<a href="https://www.karlsonn.nl">Enroll Your Organisation →</a>
+			<a href="https://www.karlsonn.nl?utm_source=github&utm_medium=readme">Enroll Your Organisation →</a>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			<a href="https://apps.apple.com/us/app/karlsonn/id6471035740">Download the App →</a>
 		</sup>
@@ -43,18 +43,18 @@
 
 <p>
 	<sup>
-		<a href="https://www.kerig.ee">Visit Kerig’s Website →</a>
+		<a href="https://www.kerig.ee?utm_source=github&utm_medium=readme">Visit Kerig’s Website →</a>
 	</sup>
 </p>
 
 <p>
 	<sub><strong>ᴀᴠᴀɪʟᴀʙʟᴇ ᴅᴜʀɪɴɢ ᴇᴇsᴛ ʙᴜsɪɴᴇss ʜᴏᴜʀs</strong></sub>
 	<br />
-	<span>🇳🇱 +31 6 12 36 21 05</span>
+	🇳🇱 <span>+31 6 12 36 21 05</span>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<span>🇦🇺 +61 452 119 679</span>
+	🇦🇺 <span>+61 452 119 679</span>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<span>🇪🇪 +372 5601 6561</span>
+	🇪🇪 <span>+372 5601 6561</span>
 </p>
 
 <br /><br />
