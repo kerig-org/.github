@@ -48,7 +48,7 @@
 </p>
 
 <p>
-	<sub><sup><strong>AVAILABLE 7AM–4PM EEST ON BUSINESS DAYS</strong></sup></sub>
+	<sub><sup><strong>AVAILABLE 8AM–5PM EEST ON BUSINESS DAYS</strong></sup></sub>
 	<br />
 	🇳🇱 <span>+31 6 12 36 21 05</span>
 	&nbsp;&nbsp;&nbsp;&nbsp;
