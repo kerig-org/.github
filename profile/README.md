@@ -48,7 +48,7 @@
 </p>
 
 <p>
-	<sub><strong>ᴀᴠᴀɪʟᴀʙʟᴇ ᴅᴜʀɪɴɢ ᴇᴇsᴛ ʙᴜsɪɴᴇss ʜᴏᴜʀs</strong></sub>
+	<sub><sup><strong>AVAILABLE 7AM–4PM EEST ON BUSINESS DAYS</strong></sup></sub>
 	<br />
 	🇳🇱 <span>+31 6 12 36 21 05</span>
 	&nbsp;&nbsp;&nbsp;&nbsp;
@@ -61,11 +61,30 @@
 
 <p align="center">
 	<img
+		src="https://github.com/kerig-ou/.github/assets/85436086/eac5fe73-ade1-4515-8da3-d7c9fed67d68"
+		alt="Map"
+		width="640"
+		height="190"
+	/>
+</p>
+
+<br />
+
+<p align="center">
+	<img
 		src="https://github.com/kerig-ou/.github/assets/85436086/5e3ffb78-976e-43aa-8ea1-521838deada0"
 		alt="Kerig"
 		height="48px"
 	/><br />
-	<sub>Rävala pst 2, 10145 Tallinn, EE</sub><br />
-	<sup>Oder 20, PO Box A970, 2491 DC Den Haag, NL</sup><br />
-	<sup><sup>Copyright © 2021 – 2024 Kerig OÜ</sup></sup>
+	<sub><sub>Tornimäe 5, 2nd floor, 10145 Tallinn, EE</sub></sub><br />
+	<sub><sup>Rävala pst 2, 8th floor, 10145 Tallinn, EE</sup></sub><br />
+	<sup><sup>Oder 20, PO Box A970, 2491 DC Den Haag, NL</sup></sup><br />
+	<sup><sub>Copyright © 2021 – 2024 Kerig OÜ</sub></sup><br />
+	<sub><sub>
+			Kerig OÜ is an Estonian company with registration number 16392597.
+	</sub></sub>
+	<br />
+	<sup><sub>
+		For all communications concerning legal matters, please use our postal address.
+	</sub></sup>
 </p>
