@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-	We strive to deliver exceptional customer experience to build long-<br />term quality client relations. We prioritise collaborative partnerships<br />through our digital enterprise services to deliver tailored solutions<br />that drive efficiency and growth.
+	We strive to deliver exceptional customer experience to build long-<br />term quality client relations. We prioritize collaborative partnerships<br />through our digital enterprise services to deliver tailored solutions<br />that drive efficiency and growth.
 </p>
 <p align="center">
 	—The Kerig Team
@@ -50,35 +50,22 @@
 <p>
 	<sub><sup><strong>AVAILABLE 8AM–5PM EEST ON BUSINESS DAYS</strong></sup></sub>
 	<br />
-	🇳🇱 <span>+31 6 12 36 21 05</span>
-	&nbsp;&nbsp;&nbsp;&nbsp;
 	🇦🇺 <span>+61 452 119 679</span>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	🇳🇱 <span>+31 6 12 36 21 05</span>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	🇪🇪 <span>+372 5601 6561</span>
 </p>
 
-<br /><br />
-
-<p align="center">
-	<img
-		src="https://github.com/kerig-ou/.github/assets/85436086/eac5fe73-ade1-4515-8da3-d7c9fed67d68"
-		alt="Map"
-		width="640"
-		height="190"
-	/>
-</p>
-
-<br />
+<br /><br /><br />
 
 <p align="center">
 	<img
 		src="https://github.com/kerig-ou/.github/assets/85436086/5e3ffb78-976e-43aa-8ea1-521838deada0"
-		alt="Kerig"
+		alt="The Kerig Organization"
 		height="48px"
 	/><br />
 	<sub><sub>Tornimäe 5, 2nd floor, 10145 Tallinn, EE</sub></sub><br />
-	<sub><sup>Rävala pst 2, 8th floor, 10145 Tallinn, EE</sup></sub><br />
-	<sup><sup>Oder 20, PO Box A970, 2491 DC Den Haag, NL</sup></sup><br />
 	<sup><sub>Copyright © 2021 – 2024 Kerig OÜ</sub></sup><br />
 	<sub><sub>
 			Kerig OÜ is an Estonian company with registration number 16392597.
