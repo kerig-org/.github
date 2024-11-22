@@ -1,5 +1,6 @@
 name: User Story
 description: This template is for creating user stories.
+title: "Need ..."
 body:
   - type: input
     attributes:
